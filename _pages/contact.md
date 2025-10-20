@@ -1,3 +1,9 @@
+---
+layout: single
+title: Contact Me
+permalink: /contact/
+---
+
 # Contact Me
 
 I'd love to hear from you! Please fill out the form below to get in touch.
