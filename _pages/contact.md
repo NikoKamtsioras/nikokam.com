@@ -4,8 +4,6 @@ title: Contact Me
 permalink: /contact/
 ---
 
-# Contact Me
-
 I'd love to hear from you! Please fill out the form below to get in touch.
 
 <form action="https://formspree.io/f/xeorddlb" method="POST">
@@ -18,7 +16,8 @@ I'd love to hear from you! Please fill out the form below to get in touch.
   <label for="message">Message:</label><br/>
   <textarea id="message" name="message" rows="5" required></textarea><br/><br/>
 
-  <button type="submit">Send</button>
+  <button type="submit" class="btn btn-primary">Send</button>
+
 </form>
 
 ---
