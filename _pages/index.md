@@ -43,7 +43,7 @@ feature_row:
 
 ---
 
-Hi, I’m Niko — a 16-year-old from Los Al.  
+Hi, I’m Niko!  
 I'm a licensed ham radio operator. My main interests are electrical engineering, radio, and writing.
 {% include feature_row id="feature_row"  class="feature-row--four" type="left" %}
 
